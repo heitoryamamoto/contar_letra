@@ -6,3 +6,11 @@
 
 # recursivo
 (1,ϵ)(2,F)(3,F)(4,FG)(1,FGH)(2,FGHF)(3,FGHF)(4,FGHFG)(1,FGHFGH)
+
+# Equipe
+.Heitor Yasuo Yamamoto
+.Carlos Eduardo Teixeira (Noite) 
+.Antônio Heitor Azevedo
+.Deivison Tavares
+.Gustavo Nishimura
+
